@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Admin Panel</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+    <string name="spinner_title">Match Map</string>
+    <string name="toast_image_intent_null">Image Picker option is missing!</string>
+    <string name="lbl_set_profile_photo">Set Image</string>
+    <string name="lbl_take_camera_picture">Take a picture</string>
+    <string name="lbl_choose_from_gallery">Choose from gallary</string>
+    <string name="dialog_permission_message">This app needs permission to use this feature. You can grant them in app settings.</string>
+</resources>

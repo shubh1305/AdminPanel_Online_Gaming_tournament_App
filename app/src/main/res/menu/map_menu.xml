@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/map_erangel"
+        android:title="Erangel" />
+    <item
+        android:id="@+id/map_miramar"
+        android:title="Miramar" />
+    <item
+        android:id="@+id/map_sanhok"
+        android:title="Sanhok"/>
+    <item
+        android:id="@+id/map_vikendi"
+        android:title="Vikendi"/>
+</menu>
